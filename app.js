@@ -37,7 +37,7 @@ app.post("/", function (req, res) {
         url: "https://us17.api.mailchimp.com/3.0/lists/f8eb4804c0",
         method: "POST",
         headers: {
-            "Authorization": "aniket1 fcdba86c3e45ed0f9397f5ec268835d3-us17"
+            "Authorization": "aniket1 api-key"
         },
         // body: jason_data
     };
